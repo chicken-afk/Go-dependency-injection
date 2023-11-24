@@ -1,2 +1,2 @@
 # Go-dependency-injection
-How To User Go Dependency Injection
+How To Implement Go Dependency Injection
